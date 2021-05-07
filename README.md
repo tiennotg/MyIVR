@@ -1,4 +1,4 @@
-# DTMF Server
+# MyIVR
 A simple interactive voice response implementation. Designed to run
 on a Raspberry Pi 2 (and later models) with the GPIO port, and a DTMF
 module based on the MT8870 chip.
