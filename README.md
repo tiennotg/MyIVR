@@ -17,7 +17,7 @@ is 5V, while the Raspberry Pi only expects 3.3V. Without conversion,
 you'll DESTROY it, because there is no protection!**
   
 You may find an example of a conversion scheme with some resistors here:
-`voltage_conversion.png`
+`voltage_conversion.gif`
 
 By default, Q1 to 4 outputs from MT8870 are respectively connected to
 GPIO 1, 7, 8, 25 (in BCM pinout). StQ out is connected to GPIO 15,
